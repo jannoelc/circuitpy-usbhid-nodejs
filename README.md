@@ -14,6 +14,9 @@ Devices tested:
 - Raspberry Pi Pico
 - Raspberry Pi Pico W
 
+## Example Usage
+See https://github.com/jannoelc/ro-pixel-bot
+
 ## Motivation and Disclaimer
 
 The primary motivation of this project is to bypass anti-cheat on games. I am not responsible to anything that may happen to your machine or game account when you use this project. Cheating is a bannable offense on most games.
